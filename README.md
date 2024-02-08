@@ -15,9 +15,15 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/106kG_55xio2CT3hCj9SCFi2tIa1AeJ1O/view?usp=sharing](https://drive.google.com/file/d/106kG_55xio2CT3hCj9SCFi2tIa1AeJ1O/view?usp=sharing)
 
+- ⚡ Fun fact **The dot over the letter "i" is called a tittle.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://stackoverflow.com/users/jaswanth-bhogi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="jaswanth-bhogi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/jaswanth-bhogi-0173911b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jaswanth-bhogi-0173911b6/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/16267230/jaswanth-bhogi?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/16267230/jaswanth-bhogi?tab=profile" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/umadevi.bhogi.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/umadevi.bhogi.7" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/jaswanth_bhogi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/jaswanth_bhogi/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/jaswanthbhogi123/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/jaswanthbhogi123/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
