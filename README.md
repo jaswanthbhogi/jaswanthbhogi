@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Jaswanth Bhogi</h1>
-<h3 align="center">Software Developer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaswanthbhogi&label=Profile%20views&color=0e75b6&style=flat" alt="jaswanthbhogi" /> </p>
 
@@ -12,8 +12,6 @@
 - 💬 Ask me about **Anything**
 
 - 📫 How to reach me **jaswanthbhogi123@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/106kG_55xio2CT3hCj9SCFi2tIa1AeJ1O/view?usp=sharing](https://drive.google.com/file/d/106kG_55xio2CT3hCj9SCFi2tIa1AeJ1O/view?usp=sharing)
 
 - ⚡ Fun fact **The dot over the letter "i" is called a tittle.**
 
